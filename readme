@@ -1,0 +1,32 @@
+A personal relationship manager for keeping track of how you stay in touch with the people who matter to you.
+
+## How to open it
+
+Double-click `Orbit.html`. It opens in your web browser. Nothing to install.
+
+## What it does
+
+- **Three-pane layout:** categories on the left, people in the middle, a person's profile on the right.
+- **Three cards at the top:**
+  - **Need Attention:** last spoke 30–59 days ago.
+  - **Gone Cold:** last spoke 60+ days ago.
+  - **Follow Up This Week:** follow-ups due in the next 7 days, or overdue.
+- **Profiles:** email, phone, when you last spoke, and a timeline of notes.
+- **Log a conversation:** add a note and date; this also clears any follow-up.
+- **Follow-ups:** set one from a profile (Tomorrow, Next week, In a month, or pick a date).
+- **Add, edit, and remove people.** Typing a new category creates it in the sidebar.
+- **Search and sort** by most recent, longest ago, or name.
+- Light and dark mode, and works on phone-sized screens.
+
+## Good to know
+
+- Your changes are saved in the web browser on this computer only. A different browser shows the original sample data.
+- "Reset to sample data" (at the bottom of a profile) starts over.
+- The sample list has no company column, so Orbit shows each person's industry instead.
+- No email or LinkedIn integrations yet.
+
+## Files
+
+- `Orbit.html`: the app.
+- `README.md`: this file.
+- Sample data came from `sample_contact_list.csv` (in Downloads).
